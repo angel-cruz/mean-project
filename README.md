@@ -1,5 +1,5 @@
 # mean-project
-MEAN with Mongo, Express, Angular, and Node
+Mongo, Express, Angular, and Node
 
 # Getting MEAN application code
 
